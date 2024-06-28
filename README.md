@@ -2,7 +2,7 @@
 
 ## Software Engineer | Jurist | Lifelong Learner
 
-[About Me](#about-me) | [Technologies](#technologies) | [Projects](#projects) | [Contact](#contact)
+[About Me](#about-me) | [Technologies](#technologies) | [Projects](#projects) | [Contact](#lets-connect)
 
 ## About Me
 
