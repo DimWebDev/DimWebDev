@@ -74,13 +74,3 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 <p>
   <a href="https://www.linkedin.com/in/dimitrios-liasis" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
-
-<details>
-  <summary>📊 GitHub Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=DimWebDev&show_icons=true&theme=radical" alt="DimWebDev's GitHub Stats" />
-  <br>
-  <sub>Note: These stats only show public contributions. Most of my activity was in private repositories. But feel free to navigate my Pinned Repositories</sub>
-</details>
